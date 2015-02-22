@@ -24,7 +24,6 @@ makeCacheMatrix <- function(x = matrix()) {
    setmean = setmean
    getmean = getmean)
 
-
 }
 
 
